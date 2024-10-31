@@ -1,5 +1,5 @@
-first create environment by executing plants_env.yml using command conda env create -f plants_env.yml
+First create environment by executing plants_env.yml using command conda env create -f plants_env.yml
 
-then run the training code  and use testing code for testing purposes
+Then run the training code  and use testing code for testing purposes
 
 Create ur website using main.py by using command "streamlit run main.py"
